@@ -22,7 +22,3 @@ https://www.youtube.com/watch?v=f1iVsnjmPhI
 Credits
 --------------------------------------------------
 Credits to Microsoft
-
-Version2
--------------------------------------------------
-Version BATCH Comming soon! i guess today
