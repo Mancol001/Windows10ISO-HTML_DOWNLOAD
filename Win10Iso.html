@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<title>Windows 10 ISO</title>
+<style>
+    body{
+        background-color: rgb(0, 153, 255);
+    }
+
+    h1{
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: xx-large;
+        color: rgb(255, 255, 255);
+    }
+
+    h3{
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    h2{
+        font-family: Arial, Helvetica, sans-serif;
+        color: green;
+    }
+</style>
+<h1>Windows 10 ISO Download</h1>
+<h3>Click Download to start your download</h3>
+<h3>Also i download the iso from Microsoft</h3>
+<h3>Credits to Microsoft</h3>
+<button id="downloadbutton"><h2>Download ISO</h2></button>
+<h1 id="thanks"></h1>
+
+<script>
+    document.getElementById("downloadbutton").addEventListener("click", function() {
+        alert("Click OK To contunue")
+        window.open('https://drive.google.com/uc?export=download&id=1AOoDrGnNheGsuIA2FMGwi2Iv-Th_sdak', '_blank');
+        document.getElementById("thanks").textContent = "Thanks for downloading here!"
+    });
+</script>
