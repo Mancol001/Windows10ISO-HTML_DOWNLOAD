@@ -16,6 +16,9 @@ after a page thats says the file is too big and then click on download anyways
 
 finish
 
+Here a video made by me
+https://www.youtube.com/watch?v=f1iVsnjmPhI
+
 Credits
 --------------------------------------------------
 Credits to Microsoft
